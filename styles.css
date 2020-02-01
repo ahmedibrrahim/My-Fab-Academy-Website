@@ -1,0 +1,76 @@
+body {
+    /* Whatever the height of your navbar is; the
+                             default is 50px */
+    padding-top: 50px;
+
+    background-color: black;
+}
+
+#jumbotron {
+    background: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+}
+
+#footer {
+    background-color: whitesmoke;
+}
+
+.headlines {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    border-block-end-style: double;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#aboutMe {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#whyFabAcademy {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#headerText {
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serifx;
+}
+
+.assignmentParagraph{
+    color: whitesmoke;
+}
+
+.card-header{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.breadcrumb {
+    background: rgba(255, 255, 255, 0);
+    border: 5px solid rgba(245, 245, 245, 0);
+    border-radius: 21px;
+}
+
+.breadcrumb li {
+    font-size: 19px;
+}
+
+.breadcrumb a {
+    color: rgba(169, 170, 171, 1);
+}
+
+.breadcrumb a:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+.breadcrumb>.active {
+    color: rgba(255, 255, 255, 1);
+}
+
+.breadcrumb>li+li:before {
+    color: rgba(204, 204, 204, 1);
+    content: "\003E\00a0";
+}
