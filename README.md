@@ -11,7 +11,7 @@ Feel free to edit, tweak and reuse this code. you can easily edit the ".html" fi
 
 <img src="ReadmeImages/Screen%20Shot%202020-02-01%20at%207.10.38%20PM-min.png">
 
-- You can check this resources out for more details and examples about bootstrap 
+- You can check these resources out for more details and examples about bootstrap 
 (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 (https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 - Also W3schools can help you understand "HTML", "CSS" in more depth.
