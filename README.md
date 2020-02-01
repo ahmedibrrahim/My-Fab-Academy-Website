@@ -1,2 +1,11 @@
 # My-Fab-Academy-Website
-Fab Academy Personal website Source Code. It's based on HTML, CSS, Bootstrap.
+Fab Academy Personal website Source Code. It's based on HTML, CSS, Bootstrap. I love the grid system look and i feel that it's more comfortable so I decided to build my website assignments page in that look. Lemme tell you a secret! the website is responsive, can adapt it's components sizing to any screen size.
+
+![] (ReadmeImages/Screen Shot 2020-02-01 at 7.10.38 PM-min.png)
+
+- You can check this resources out for more details and examples about bootstrap 
+(https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+(https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
+- Also W3schools can help you understand "HTML", "CSS" in more depth.
+(https://www.w3schools.com/html/default.asp)
+(https://www.w3schools.com/css/default.asp)
